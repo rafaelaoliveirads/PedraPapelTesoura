@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(194, 237, 166);
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #008000;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #5F9EA0;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cab4ca;
+}
+
+#resultado {
+    font-weight: bold;
+    margin-top: 20px;
+    color: 	#556B2F
+}
